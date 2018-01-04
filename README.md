@@ -1,2 +1,4 @@
 # hello-word
-Mi primer repositorio
+
+Mi nombre es Luis :)
+Me gusta mucho futbol soccer.
